@@ -1,0 +1,10 @@
+Quick notes! Verwijder geen mappen/folders. Alle mappen hebben een functie. De afbeeldingen die u wilt gebruiken kunt u niet niet in de hoofdmap gooien, maar moeten in de aangegeven mappen plaatsen om te werken.
+
+UITLEG:
+
+Stap 1: Plaats uw afbeeldingen in de de juiste folders.
+- Base-image: de afbeelding die u als achtergrond wilt.
+- Overlay-image: De afbeeldingen die u op de achtergrond wilt.
+Stap 2: Run als eerste de BackgroundRemover om de achtergrond van de afbeelding transparant te maken.
+Stap 3: Run daarna Versie2 om de afbeeldingen te combineren.
+Stap 4: Haal de afbeeldingen uit de resultaat folder.
