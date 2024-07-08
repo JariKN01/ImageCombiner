@@ -50,5 +50,5 @@ def remove_white_background(input_folder):
 
 # Example usage:
 if __name__ == "__main__":
-    input_folder = "C:/Users/jarik/ProductDescription/ImageCombiner/overlay-image"
+    input_folder = "overlay-image"
     remove_white_background(input_folder)
